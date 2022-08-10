@@ -1,0 +1,14 @@
+html{
+    background: black;
+}
+.cat-image{
+    height: 300px;
+    width: 300px;
+}
+.bulb-image{
+    height: 300px;
+    width: 300px;
+}
+.dark-background{
+    background-color: black;
+}
